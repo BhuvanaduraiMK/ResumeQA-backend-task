@@ -1,9 +1,11 @@
 Resume Q&A Backend – Mittai Healthcare Pvt. Ltd.
-	This backend project is developed as part of a task for Mittai Healthcare Pvt. Ltd. 
-  It supports resume-related Q&A operations using Python and provides an API interface for 
-  backend operations.
+	
+ 	This backend project is developed as part of a task for Mittai Healthcare Pvt. Ltd. 
+  	It supports resume-related Q&A operations using Python and provides an API interface for 
+  	backend operations.
 
 Folder Structure
+      
       mittai-backend-task/
 		│
 		├── Resume_QA/
@@ -22,7 +24,8 @@ Tech Stack ⚙️
    - Virtualenv
 
 How to Run the Project 🚀
-	Step 1:Create a virtual environment 
+	
+ 	Step 1:Create a virtual environment 
 		python -m venv venv	
         Step 2: Activate your virtual environment
 		venv\Scripts\activate       
