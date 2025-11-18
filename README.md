@@ -1,4 +1,4 @@
-Resume Q&A Backend – Mittai Healthcare Pvt. Ltd.
+Resume Q&A Backend
 	
  	This backend project is developed as part of a task. 
   	It supports resume-related Q&A operations using Python and provides an API interface for 
